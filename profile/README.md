@@ -1,8 +1,4 @@
-## tUX-evse 👋
-
-<!--
-
-**Electric vehicule & charger Rust software stack :**
+## tux-evse: Rust software stack for electric vehicules & chargers
 
 This project Rust modules:
  * ISO15118-2/Din stack [iso15118-encoder-rs](https://github.com/tux-evse/iso15118-encoders-rs)
@@ -16,4 +12,3 @@ This project Rust modules:
 
  Tux-evse ship a default configuation [evse-project-manager-config](https://github.com/tux-evse/evse-project-manager-config) 
  targeting (redpesk-factory)[https://redpesk.bzh/welcome/home] a CentOS-stream derivated plateform. Nevertheless provided cargo/cmake are standard should work on any serious Linux plateform.
--->
