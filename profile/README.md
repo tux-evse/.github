@@ -24,4 +24,6 @@ This project Rust modules:
 2. Import your BSP project ([BeaglePlay](https://download.redpesk.bzh/community/iot-charger/iot-tux-evse-beagleplay.zip) or [Raspberry Pi 4b](https://download.redpesk.bzh/community/iot-charger/iot-tux-evse-raspberry-pi-4b.zip)) or create your own! (New Project -> Import - more details [here](https://docs.redpesk.bzh/docs/en/master/redpesk-factory/projects-management/01-export-import.html#webui-1))
 3. Import the Tux-EVSE project from [here](https://download.redpesk.bzh/community/iot-charger/iot-tux-evse-community.zip)
 
-You can now modify packages, add patches or create new package. For the image generation, please refer to the [documentation](https://docs.redpesk.bzh/docs/en/master/redpesk-factory/images-management/01-create-an-image.html#creation-of-a-basic-redpesk-os-image).
+You can now modify packages, add patches or create new package. 
+
+For the image generation, please refer to the [documentation](https://docs.redpesk.bzh/docs/en/master/redpesk-factory/images-management/01-create-an-image.html#creation-of-a-basic-redpesk-os-image).
